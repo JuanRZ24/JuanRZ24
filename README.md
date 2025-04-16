@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<!-- Centrado y con tamaño personalizado -->
-<p align="center">
-  <img src="assets/meme-elmo.gif" alt="Elmo en el infierno" width="600"/>
-</p>
 
+<p align="center">
+  <img src="assets/meme-elmo.gif" alt="Elmo en el infierno" width="600" length="800"/>
+</p>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
 - 🔭 I’m currently working on **a Laravel + MySQL ticket system**
