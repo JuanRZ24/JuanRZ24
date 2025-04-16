@@ -14,9 +14,27 @@
 
 ### 🛠️ Languages and Tools:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,vscode,git,github" />
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" />
+        <br/>Laravel
+      </td>
+      <td rowspan="8">
+        <img src="assets/alistar.gif" width="250" alt="Imagen al lado" />
+      </td>
+    </tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/>MySQL</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=php" width="40" /><br/>PHP</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" /><br/>HTML</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" /><br/>CSS</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>VS Code</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub</td></tr>
+  </table>
 </p>
+
 
 ---
 
