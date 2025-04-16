@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on **a Laravel + MySQL ticket system**
 - 🌱 I’m currently learning **API security, unit testing, and JS frontend**
-- 👯 I’m looking to collaborate on **backend APIs and open-source tools**
-- 💬 Ask me about **Laravel, MySQL, and API design**
 - 📫 How to reach me: **juan.dev@example.com**
-- ⚡ Fun fact: **I love pixel-art games and developing indie projects**
+
 
 ---
 
 ### 🛠️ Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,js,html,css,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,vscode,git,github" />
 </p>
 
 ---
