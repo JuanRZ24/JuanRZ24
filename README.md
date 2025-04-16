@@ -11,11 +11,10 @@
 
 ### 🧠 Sobre mí
 
-- 🔭 Actualmente trabajando en un sistema de soporte con Laravel + MySQL  
-- 🌱 Aprendiendo pruebas unitarias, autenticación avanzada y JS moderno   
-  
+- 🔧 Actualmente estoy desarrollando un sistema de soporte utilizando **Laravel** y **MySQL**, enfocándome en eficiencia y buenas prácticas.
+- 🚀 Estoy profundizando en **pruebas unitarias**, **autenticación segura con Sanctum**, y mejorando mis habilidades en **JavaScript moderno**.
+- 🧪 Soy fanatico de aprender.
 
----
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -42,7 +41,7 @@
 
 ### 📫 Contacto
 
-- 📧 juan.dev@example.com  
+- 📧 juancode24@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/JuanRZ24)  
 - 🐦 [Twitter](https://twitter.com/JuanRZ24)  
 
