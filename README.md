@@ -20,7 +20,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,js,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,vscode,git,github" />
 </p>
 
 ---
