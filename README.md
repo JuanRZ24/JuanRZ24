@@ -12,10 +12,8 @@
 ### 🧠 Sobre mí
 
 - 🔭 Actualmente trabajando en un sistema de soporte con Laravel + MySQL  
-- 🌱 Aprendiendo pruebas unitarias, autenticación avanzada y JS moderno  
-- 👯 Buscando colaborar en proyectos backend o APIs abiertas  
-- 🎮 Fan de los videojuegos, los memes y el caos creativo  
-- ⚡ Dato curioso: Tengo una pasión por los sistemas bien estructurados y los GIFs absurdos
+- 🌱 Aprendiendo pruebas unitarias, autenticación avanzada y JS moderno   
+  
 
 ---
 
@@ -26,21 +24,19 @@
 </p>
 
 ---
+### 📚 Aprendiendo ahora
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanRZ24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRZ24&layout=compact&theme=tokyonight" />
-</p>
+- Pruebas unitarias con PHPUnit
+- Mejores prácticas en Laravel (servicios, repositorios, validaciones)
+- Consumo de APIs externas con JavaScript
+- Patrones de diseño backend
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos 
 
-- 🎫 [Sistema de Tickets de Soporte (Laravel + MySQL)](https://github.com/JuanRZ24/ticket-system)
-- 📚 [API RESTful para Biblioteca Digital](https://github.com/JuanRZ24/digital-library-api)
-- 📦 [Catálogo de Videojuegos Favoritos](https://github.com/JuanRZ24/game-catalog-api)
+- 🎫 Vacio de momento lol
+
 
 ---
 
@@ -53,7 +49,7 @@
 ---
 
 <p align="center">
-  <em>"Simplicidad, código limpio y pasión por mejorar cada día." ✨</em>
+  <em>Este es mi gato bruno</em>
 </p>
 
 
