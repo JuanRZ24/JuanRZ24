@@ -44,7 +44,7 @@
 
 - 📧 juancode24@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/JuanRZ24)  
-- 🐦 [Twitter](https://twitter.com/JuanRZ24)  
+- 🐦 [Twitter](https://twitter.com/Jexrz24)  
 
 ---
 
