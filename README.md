@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Juan</h1>
+<h3 align="center">A passionate backend developer from México</h3>
 
-<!--
-**JuanRZ24/JuanRZ24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a Laravel + MySQL ticket system**
+- 🌱 I’m currently learning **API security, unit testing, and JS frontend**
+- 👯 I’m looking to collaborate on **backend APIs and open-source tools**
+- 💬 Ask me about **Laravel, MySQL, and API design**
+- 📫 How to reach me: **juan.dev@example.com**
+- ⚡ Fun fact: **I love pixel-art games and developing indie projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,js,html,css,vscode,git,github" />
+</p>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRios&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRios&layout=compact&theme=tokyonight)
