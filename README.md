@@ -1,64 +1,65 @@
-<!-- Banner Elmo 🔥 -->
+<!-- Elmo Banner 🔥 -->
 <p align="center">
-  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/meme-elmo.gif" width="600" alt="Elmo modo demonio" />
+  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/meme-elmo.gif" width="600" alt="Elmo in hell mode" />
 </p>
 
-<!-- Título central -->
-<h1 align="center">¡Hola 👋, soy Juan!</h1>
-<h3 align="center">Desarrollador Backend apasionado de México 🇲🇽</h3>
+<!-- Central Title -->
+<h1 align="center">Hi 👋, I'm Juan!</h1>
+<h3 align="center">A Backend Developer from Mexico 🇲🇽</h3>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 🔧 Actualmente estoy desarrollando un sistema de soporte utilizando **Laravel** y **MySQL**, enfocándome en eficiencia y buenas prácticas.
-- 🚀 Estoy profundizando en **pruebas unitarias**, **autenticación segura con Sanctum**, y mejorando mis habilidades en **JavaScript moderno**.
-- 🧪 Soy fanatico de aprender.
+- 🔧 Currently building a support ticket system using **Laravel** and **MySQL**, focusing on efficiency and clean practices.
+- 🚀 Diving deeper into **unit testing**, **secure authentication with Sanctum**, and improving my **modern JavaScript** skills.
+- 🧪 I'm a huge fan of learning new things.
 
+---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,js,vscode,git,github" />
 </p>
 
 ---
-### 📚 Aprendiendo ahora
 
-- Pruebas unitarias con PHPUnit
-- Mejores prácticas en Laravel (servicios, repositorios, validaciones)
-- Consumo de APIs externas con JavaScript
-- Patrones de diseño backend
+### 📚 Currently Learning
 
----
-
-### 🚀 Proyectos 
-
-- 🎫 Vacio de momento lol
-
+- Unit testing with PHPUnit
+- Best practices in Laravel (services, repositories, validations)
+- Consuming external APIs using JavaScript
+- Backend design patterns
 
 ---
 
-### 📫 Contacto
+### 🚀 Projects
 
-- 📧 juancode24@gmail.com
+- 🎫 Nothing here yet... lol, stay tuned
+
+---
+
+### 📫 Contact
+
+- 📧 juancode24@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/JuanRZ24)  
 - 🐦 [Twitter](https://twitter.com/JuanRZ24)  
 
 ---
 
-<h3 align="center">🐾 Este es mi gato Bruno 🐾</h3>
+<h3 align="center">🐾 This is my cat Bruno 🐾</h3>
 
 <p align="center">
-  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/IMG_20230926_095923.jpg" alt="Gato Bruno" width="300" style="border-radius: 15px;" />
+  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/IMG_20230926_095923.jpg" alt="Bruno the Cat" width="300" style="border-radius: 15px;" />
 </p>
 
-<p align="center"><em>El verdadero cerebro detras de todo</em></p>
-
-
+<p align="center"><em>The real mastermind behind everything</em></p>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRios&show_icons=true&theme=tokyonight)
+<!-- If you want to keep this, remember to change the username if necessary -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JexRZ24&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRios&layout=compact&theme=tokyonight)
 ![Profile views](https://komarev.com/ghpvc/?username=JuanRios&color=blue)
