@@ -48,10 +48,13 @@
 
 ---
 
+<h3 align="center">🐾 Este es mi gato Bruno 🐾</h3>
+
 <p align="center">
-  <em>Este es mi gato bruno</em>
-  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/IMG_20230926_095923.jpg" alt="Elmo modo demonio" />
+  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/IMG_20230926_095923.jpg" alt="Gato Bruno" width="300" style="border-radius: 15px;" />
 </p>
+
+<p align="center"><em>El verdadero cerebro detras de todo</em></p>
 
 
 
