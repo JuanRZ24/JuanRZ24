@@ -1,40 +1,61 @@
-
-<h1>Hi 👋, I'm Juan</h1>
+<!-- Banner Elmo 🔥 -->
 <p align="center">
-  <img src="assets/meme-elmo.gif" alt="Elmo en el infierno" width="600" length="800"/>
+  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/meme-elmo.gif" width="600" alt="Elmo modo demonio" />
 </p>
-<h2>About Me🐧<h2/>
-<h3 align="center">A passionate backend developer from México</h3>
 
-- 🔭 I’m currently working on **a Laravel + MySQL ticket system**
-- 🌱 I’m currently learning **API security, unit testing, and JS frontend**
-- 📫 How to reach me: **juan.dev@example.com**
-
+<!-- Título central -->
+<h1 align="center">¡Hola 👋, soy Juan!</h1>
+<h3 align="center">Desarrollador Backend apasionado de México 🇲🇽</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧠 Sobre mí
+
+- 🔭 Actualmente trabajando en un sistema de soporte con Laravel + MySQL  
+- 🌱 Aprendiendo pruebas unitarias, autenticación avanzada y JS moderno  
+- 👯 Buscando colaborar en proyectos backend o APIs abiertas  
+- 🎮 Fan de los videojuegos, los memes y el caos creativo  
+- ⚡ Dato curioso: Tengo una pasión por los sistemas bien estructurados y los GIFs absurdos
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=laravel" width="40" />
-        <br/>Laravel
-      </td>
-      <td rowspan="8">
-        <img src="assets/alistar.gif" width="250" alt="Imagen al lado" />
-      </td>
-    </tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/>MySQL</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=php" width="40" /><br/>PHP</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" /><br/>HTML</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" /><br/>CSS</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>VS Code</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git</td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub</td></tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,php,html,css,js,vscode,git,github" />
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanRZ24&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRZ24&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+- 🎫 [Sistema de Tickets de Soporte (Laravel + MySQL)](https://github.com/JuanRZ24/ticket-system)
+- 📚 [API RESTful para Biblioteca Digital](https://github.com/JuanRZ24/digital-library-api)
+- 📦 [Catálogo de Videojuegos Favoritos](https://github.com/JuanRZ24/game-catalog-api)
+
+---
+
+### 📫 Contacto
+
+- 📧 juan.dev@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/JuanRZ24)  
+- 🐦 [Twitter](https://twitter.com/JuanRZ24)  
+
+---
+
+<p align="center">
+  <em>"Simplicidad, código limpio y pasión por mejorar cada día." ✨</em>
+</p>
+
 
 
 ---
