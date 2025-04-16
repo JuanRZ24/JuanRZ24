@@ -50,6 +50,7 @@
 
 <p align="center">
   <em>Este es mi gato bruno</em>
+  <img src="https://github.com/JuanRZ24/JuanRZ24/raw/main/assets/IMG_20230926_095923.jpg" width="600" alt="Elmo modo demonio" />
 </p>
 
 
