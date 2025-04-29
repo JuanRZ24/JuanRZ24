@@ -11,9 +11,9 @@
 
 ### 🧠 About Me
 
-- 🔧 Currently building a support ticket system using **Laravel** and **MySQL**, focusing on efficiency and clean practices.
-- 🚀 Diving deeper into **unit testing**, **secure authentication with Sanctum**, and improving my **modern JavaScript** skills.
-- 🧪 I'm a huge fan of learning new things.
+- 🔧 <<<<
+- 🚀 <<<<<
+- 🧪 <<<<
 
 ---
 
@@ -27,10 +27,10 @@
 
 ### 📚 Currently Learning
 
-- Unit testing with PHPUnit
-- Best practices in Laravel (services, repositories, validations)
-- Consuming external APIs using JavaScript
-- Backend design patterns
+- <<<<<
+- <<<<
+- <<<<
+-<<<<<
 
 ---
 
@@ -58,8 +58,4 @@
 
 ---
 
-<!-- If you want to keep this, remember to change the username if necessary -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRZ24&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRios&layout=compact&theme=tokyonight)
 
