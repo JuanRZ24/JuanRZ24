@@ -1,6 +1,6 @@
-# ¡Hola, soy Juan! 👋
+# ¡Hi, i am Juan! 👋
 
-Soy un apasionado de la tecnología y la innovación, actualmente cursando mi último año de Informática. Me encanta superar retos técnicos y aprender herramientas nuevas cada día.
+i like coding C:
 
 ### 🛠 Stack Tecnológico
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
