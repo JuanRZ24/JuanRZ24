@@ -1,3 +1,4 @@
+![Texto alternativo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtuZzVoODg3aWF6enU1MTA2ZTRka2FhY3E2bjNmYnVxMXp6ZXF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5fQyd7jM58m5y/giphy.gif)
 # ¡Hi, i am Juan! 👋
 
 i like coding C:
