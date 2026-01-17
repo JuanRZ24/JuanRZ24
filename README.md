@@ -26,12 +26,5 @@ i like coding C:
 - 🔐 **User Auth API:** Built with Go (Golang).
 - 🌐 **Web Portfolio:**
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanrz24&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrz24&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanRZ24&theme=tokyonight&hide_border=true" alt="Streak" />
 
 
