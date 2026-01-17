@@ -1,5 +1,6 @@
-![Texto alternativo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtuZzVoODg3aWF6enU1MTA2ZTRka2FhY3E2bjNmYnVxMXp6ZXF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5fQyd7jM58m5y/giphy.gif)
-# ¡Hi, i am Juan! 👋
+
+![Diseño sin título](https://github.com/user-attachments/assets/c146b9b8-d181-44bc-ab31-9e14b0e30d60)
+
 
 i like coding C:
 
