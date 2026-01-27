@@ -5,7 +5,7 @@
 i like coding C:
 
 
-### ⚡ Stack
+### ⚡ Stacka
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
