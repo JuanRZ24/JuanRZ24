@@ -23,7 +23,7 @@ i like coding C:
 </p>
 
 ### 🍳 What I'm Cooking
-- 🔐 **User Auth API:** Built with Go (Golang).
+- 🔐 **User Auth API:** Built with Go (Golang)
 - 🌐 **Web Portfolio:**
 
 
