@@ -2,7 +2,7 @@
 ![Diseño sin título](https://github.com/user-attachments/assets/c146b9b8-d181-44bc-ab31-9e14b0e30d60)
 
 
-i like coding C:
+i like codivng C:
 
 
 ### ⚡ Stacka
