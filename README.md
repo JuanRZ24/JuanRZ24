@@ -24,7 +24,7 @@ i like coding C:
 
 ### 🍳 What I'm Cooking
 - 🔐 **User Auth API:** Built with Go (Golang)
-- 🌐 **Web Portfolio:**:C
+- 🌐 **Web Portfolio:**
 
 
 
