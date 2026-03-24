@@ -23,7 +23,7 @@ i like coding C:
 </p>
 
 ### 🍳 What I'm CookingAA
-- 🔐 **GeekCave: build with Java 
+- 🔐 **GeekCave: build with Java**
 - 🌐 **Web Portfolio:**
 
 
