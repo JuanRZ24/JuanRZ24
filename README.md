@@ -24,7 +24,6 @@ i like coding C:
 
 ### 🍳 What I'm Cooking
 - 🔐 **Lexflow**
-- 🌐 **Web Portfolio:**
 
 
 
