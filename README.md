@@ -23,7 +23,7 @@ i like coding C:
 </p>
 
 ### 🍳 What I'm Cooking
-- 🔐 **Lexflow: A LegalTech SaaS for smart case management, critical deadline tracking, and seamless team collaboration.**
+- 🔐 **Lexflow: A LegalTech SaaS for smart case management, critical deadline tracking, and seamless team collaboration**
 
 
 
