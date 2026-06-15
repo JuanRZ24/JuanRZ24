@@ -1,6 +1,6 @@
 <h1 align="center">Hey I'm Juan</h1>
 <p align="center">
-  <img src="./assets/github-banner-juan.png" alt="Juan Rios - Backend & Full-Stack Developer" width="100%"/>
+  <img src="assets/github-banner-juan-black.png****" alt="Juan Rios - Backend & Full-Stack Developer" width="100%"/>
 </p>
 <h3 align="center">Backend &amp; Full-Stack Developer · Culiacán, MX 🇲🇽</h3>
 
