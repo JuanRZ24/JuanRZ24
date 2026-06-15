@@ -1,15 +1,18 @@
-<h1 align="center">Hey 👋 I'm Juan</h1>
+<h1 align="center">Hey I'm Juan</h1>
+<p align="center">
+  <img src="./assets/github-banner-juan.png" alt="Juan Rios - Backend & Full-Stack Developer" width="100%"/>
+</p>
 <h3 align="center">Backend &amp; Full-Stack Developer · Culiacán, MX 🇲🇽</h3>
 
 <p align="center">
   Construyo y <strong>despliego SaaS en producción</strong>, no solo "hola mundo".<br/>
-  Fundador de <a href="https://eidonic.com.mx">Eidonic</a> · me gusta el backend, los sistemas y aprender haciendo.
+  me gusta el backend, los sistemas y aprender haciendo.
 </p>
 
 <p align="center">
   <a href="https://eidonic.com.mx">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/TU-USUARIO">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:TU-CORREO@dominio.com">✉️ Email</a> &nbsp;·&nbsp;
+  <a href="www.linkedin.com/in/jose-juan-rios-zavala-456b09361">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:juancode24@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
   <a href="https://x.com/Jexrz24">𝕏 Twitter</a>
 </p>
 
@@ -33,15 +36,13 @@
 ### 🔭 What I'm Cooking
 
 - 🏛️ **Fuero** — ERP SaaS multitenant para despachos jurídicos. Autenticación real, gestión de expedientes y clientes, carga de documentos y plantillas configurables. **En producción** con su primer cliente real.
-- 📡 Explorando un monitor de notificaciones judiciales (scraping del Boletín Judicial + alertas por WhatsApp/email).
 
-> *Yo me encargo del ciclo completo: arquitectura, backend, frontend y despliegue (Docker + Nginx + CI/CD en VPS).*
+
 
 ---
 
 ### 🧪 Cosas que construí para aprender
 
-- **Reverse proxy en Go** desde cero, solo con la librería estándar — balanceo round-robin + health checks.
 - **Servicio de autenticación centralizado** reutilizable entre proyectos.
 
 ---
