@@ -6,7 +6,7 @@
 <h3 align="center">Backend &amp; Full-Stack Developer · Culiacán, MX 🇲🇽</h3>
 
 <p align="center">
-  Construyo y <strong>despliego SaaS en producción</strong>, no solo "hola mundo".<br/>
+  Construyo y <strong>despliego SaaS en producción.</strong><br/>
   me gusta el backend, los sistemas y aprender haciendo.
 </p>
 
