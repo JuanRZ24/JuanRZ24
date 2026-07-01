@@ -7,7 +7,7 @@
 
 <p align="center">
   Construyo y <strong>despliego SaaS en producción.</strong><br/>
-  me gusta el backend, los sistemas y aprender haciendo.
+  me gusta el backend, los sistemas y aprender haciendo
 </p>
 
 <p align="center">
