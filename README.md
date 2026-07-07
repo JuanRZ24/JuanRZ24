@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://juanrz24.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="www.linkedin.com/in/jose-juan-rios-zavala-456b09361">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:juancode24@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
+  <a href="mailto:juancode24@gmail.com">✉️ EmaiAl</a> &nbsp;·&nbsp;
   <a href="https://x.com/Jexrz24">𝕏 Twitter</a>
 </p>
 
