@@ -35,7 +35,7 @@
 
 ###  What I'm Cooking
 
--  **Fuero** — Multitenant SaaS ERP for law firms. Real authentication, case &amp; client management, document uploads, and configurable templates. **Live in production** with its first real client.
+-  **Fuero** — Multitenant SaaS ERP for law firms. Real authentication, case &amp; client management, document uploads, and configurable templates. 
 
 ---
 
