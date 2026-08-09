@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img width="2560" height="640" alt="github-banner-juan-black" src="https://github.com/user-attachments/assets/4504259c-ce2b-4637-88e9-dbb76a1752bb" />
+  <img width="2000" height="500" alt="github-banner-juan-black (2)" src="https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834" />
 </p>
 
 <h3 align="center">Backend Developer · Culiacán, MX 🇲🇽</h3>
