@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img width="2000" height="500" alt="github-banner-juan-black (2)" src="https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834" />
 </p>
@@ -7,8 +6,7 @@
 <h3 align="center">Backend Developer · Culiacán, MX 🇲🇽</h3>
 
 <p align="center">
-  I build and <strong>ship SaaS to production.</strong><br/>
-  Into backend, systems, and learning by doing.
+  I build <strong>Systems.</strong><br/>
 </p>
 
 <p align="center">
@@ -45,8 +43,8 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| Fuero| Multitenant SaaS ERP for law firms — live in production with a real client. | Java · Spring Boot · React · PostgreSQL | [Live](https://juanrz24.dev) |
-| StardewModManager  | Mod manager for StardewValley | Rust | [Site](https://app.juanrz24.dev) |
+| Fuero| Multitenant SaaS ERP for law firms  | Java · Spring Boot · React · PostgreSQL |  |
+| StardewModManager  | Mod manager for StardewValley | Rust | |
 | BrunoCLI  | A GitHub client that lives in your terminal. | Go | [Repo](#) |
 
 
