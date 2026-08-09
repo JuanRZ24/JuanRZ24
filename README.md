@@ -1,19 +1,19 @@
 
-<h1 align="center">Hey I'm Juan</h1>
 <p align="center">
   <img width="2560" height="640" alt="github-banner-juan-black" src="https://github.com/user-attachments/assets/4504259c-ce2b-4637-88e9-dbb76a1752bb" />
 </p>
-<h3 align="center">Backend &amp; Full-Stack Developer · Culiacán, MX 🇲🇽</h3>
+
+<h3 align="center">Backend Developer · Culiacán, MX 🇲🇽</h3>
 
 <p align="center">
-  Construyo y <strong>despliego SaaS en producción.</strong><br/>
-  me gusta el backend, los sistemas y aprender haciendo
+  I build and <strong>ship SaaS to production.</strong><br/>
+  Into backend, systems, and learning by doing.
 </p>
 
 <p align="center">
   <a href="https://juanrz24.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="www.linkedin.com/in/jose-juan-rios-zavala-456b09361">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:juancode24@gmail.com">✉️ EmaiAl</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jose-juan-rios-zavala-456b09361">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:juancode24@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
   <a href="https://x.com/Jexrz24">𝕏 Twitter</a>
 </p>
 
@@ -34,27 +34,33 @@
 
 ---
 
-### 🔭 What I'm Cooking
+###  What I'm Cooking
 
-- 🏛️ **Fuero** — ERP SaaS multitenant para despachos jurídicos. Autenticación real, gestión de expedientes y clientes, carga de documentos y plantillas configurables. **En producción** con su primer cliente real.
-
-
+-  **Fuero** — Multitenant SaaS ERP for law firms. Real authentication, case &amp; client management, document uploads, and configurable templates. **Live in production** with its first real client.
 
 ---
 
-### 🧪 Cosas que construí para aprender
+###  Featured Projects
 
-- **Servicio de autenticación centralizado** reutilizable entre proyectos.
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| Fuero| Multitenant SaaS ERP for law firms — live in production with a real client. | Java · Spring Boot · React · PostgreSQL | [Live](https://juanrz24.dev) |
+| StardewModManager  | Mod manager for StardewValley | Rust | [Site](https://app.juanrz24.dev) |
+| BrunoCLI  | A GitHub client that lives in your terminal. | Go | [Repo](#) |
 
----
 
-### 📊 GitHub
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanRZ24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRZ24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juanrz24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanrz24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanrz24&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"><em>Disponible para nuevas oportunidades — backend / full-stack, remoto o Culiacán.</em></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Juanrz24&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
